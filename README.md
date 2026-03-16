@@ -1,16 +1,32 @@
-## Hi there 👋
+# Raphael Emanuel Rezende
 
-<!--
-**Raphael-Rezende/Raphael-Rezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack focado em construção de aplicações web, automação de processos e sistemas desktop.
 
-Here are some ideas to get you started:
+📍 Arcos - MG, Brasil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+React • Node.js • Electron • PostgreSQL • MongoDB • Python • JavaScript
+
+## Projetos
+
+### ERP Xerife (Projeto proprietário)
+ERP desktop para gestão de almoxarifado desenvolvido com Electron + React + Node.js.
+
+Projeto privado em desenvolvimento com objetivo de comercialização.
+
+### Sistema Web para Pizzaria
+Aplicação web desenvolvida em React com integração de pedidos via WhatsApp.
+
+🔗 https://sitepizzariasanbashisystems.netlify.app
+
+### Automação Google Maps
+Ferramenta em Python + Selenium para coleta automatizada de dados de estabelecimentos.
+
+## Contato
+
+LinkedIn  
+https://www.linkedin.com/in/raphael-emanuel-rezende-5026b2223
+
+Email  
+rezenderaphael29@gmail.com
