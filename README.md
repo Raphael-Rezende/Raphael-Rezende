@@ -119,14 +119,6 @@ Gosto de trabalhar na camada onde interface, regra de negócio, banco de dados e
 
 ---
 
-## GitHub em números
-
-> Os cards abaixo são gerados pelo workflow `GitHub Profile Summary Cards`, seguindo o mesmo padrão usado no perfil de referência. Quando o secret `PROFILE_STATS_TOKEN` tem acesso aos seus repositórios privados, commits e linguagens entram no resumo agregado sem expor nomes, links ou código desses repositórios.
-
-<div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Raphael-Rezende&theme=github-compact&hide_border=true&area=true" alt="Gráfico de contribuições GitHub" />
-</div>
-
 <div align="center">
   <img width="96%" src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Resumo unificado do perfil GitHub" />
 </div>
