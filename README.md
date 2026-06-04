@@ -14,6 +14,9 @@
   <a href="https://myprofilenameprojects.netlify.app/">
     <img alt="Curriculo" src="https://img.shields.io/badge/Curriculo-Perfil%20online-22C55E?style=for-the-badge&logo=netlify&logoColor=white">
   </a>
+  <a href="https://sistemaxerife.com.br/">
+    <img alt="ERP Xerife" src="https://img.shields.io/badge/ERP%20Xerife-Site%20oficial-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
   <a href="https://github.com/Raphael-Rezende?tab=repositories">
     <img alt="Repositorios" src="https://img.shields.io/badge/Repositorios-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
@@ -90,7 +93,7 @@ Tenho vivência em rotinas administrativas, estoque e almoxarifado, o que ajuda 
 
 | Projeto | O que entrega | Stack |
 | --- | --- | --- |
-| **ERP Xerife** | ERP desktop proprietário para gestão de almoxarifado, estoque, compras, ordens de serviço e financeiro, com suporte online/offline. | Electron, React, Node.js, PostgreSQL, Vitest |
+| [**ERP Xerife**](https://sistemaxerife.com.br/) | ERP desktop proprietário para gestão de almoxarifado, estoque, compras, ordens de serviço e financeiro, com suporte online/offline. | Electron, React, Node.js, PostgreSQL, Vitest |
 | [Sistema Web para Pizzaria](https://sitepizzariasanbashisystems.netlify.app/) / [repo](https://github.com/Raphael-Rezende/react-restaurant) | Cardápio digital responsivo com carrinho, cálculo automático de pedido e envio direto pelo WhatsApp. | React, Bootstrap, Netlify |
 | [SearchMaps](https://github.com/Raphael-Rezende/SearchMaps) | Minerador de dados do Google Maps com modo terminal, exportação de dados e demo web para buscas rápidas. | Python, Selenium, SQLite, FastAPI, Next.js, Docker |
 | [Favosia](https://github.com/Raphael-Rezende/favosia) | App web com mapa persistente, painel lateral, cadastro, geocoding por endereço e filtro por raio. | React/Next.js, mapas, localStorage, Nominatim |
@@ -138,7 +141,7 @@ Gosto de trabalhar na camada onde interface, regra de negócio, banco de dados e
 
 ## Onde estou focando agora
 
-- Evoluir o **ERP Xerife** como produto desktop com módulos operacionais, banco local/remoto e fluxos comerciais.
+- Evoluir o [**ERP Xerife**](https://sistemaxerife.com.br/) como produto desktop com módulos operacionais, banco local/remoto e fluxos comerciais.
 - Transformar rotinas manuais em **automações confiáveis** com Python, Selenium e exportação de dados.
 - Melhorar a qualidade de interfaces com **React, Electron, testes e organização de componentes**.
 - Construir projetos que saem do laboratório e viram ferramentas úteis para pessoas e negócios.
