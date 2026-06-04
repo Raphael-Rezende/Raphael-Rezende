@@ -121,24 +121,26 @@ Gosto de trabalhar na camada onde interface, regra de negócio, banco de dados e
 
 ## GitHub em números
 
+> Os cards abaixo são gerados pelo workflow `GitHub Profile Summary Cards`, seguindo o mesmo padrão usado no perfil de referência. Quando o secret `PROFILE_STATS_TOKEN` tem acesso aos seus repositórios privados, commits e linguagens entram no resumo agregado sem expor nomes, links ou código desses repositórios.
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raphael-Rezende&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Raphael-Rezende&theme=github-compact&hide_border=true&area=true" alt="Gráfico de contribuições GitHub" />
+</div>
+
+<div align="center">
+  <img width="96%" src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="Resumo unificado do perfil GitHub" />
 </div>
 
 <table align="center">
   <tr>
     <td align="center">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Raphael-Rezende&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Resumo GitHub" />
+      <img width="390" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositórios por linguagem com base unificada" />
     </td>
     <td align="center">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Rezende&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+      <img width="390" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Commits por linguagem com contagem unificada" />
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Raphael-Rezende&theme=github-compact&hide_border=true&area=true" alt="Gráfico de contribuições GitHub" />
-</div>
 
 ---
 
